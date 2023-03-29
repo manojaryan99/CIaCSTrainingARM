@@ -58,7 +58,7 @@
 
     "databaseName": {
       "type": "string",
-      "defaultValue": "ManojCIaCS-db",
+      "defaultValue": "manojciacsdb",
       "metadata": {
         "description": "Select name for database"
       }
